@@ -1074,6 +1074,17 @@
         ]
       }
     },
+    "schedulin": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "schedulin",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "sentry": {
       "sha": "8ab90531580d3b2386a9bd2cd8969a1d1249b8e8",
       "version": "1.4.4",
